@@ -1,5 +1,5 @@
 # Federated-Learning
-Demonstration of unintentional leakage of private data in federated learning environment. This repository was part of my term project submission, Data Analytics course (CLL 788), IIT Delhi.
+Demonstration of unintentional leakage of private data in federated learning environment using Generative Adversarial Network (GAN). This repository was part of my term project submission, Data Analytics course (CLL 788), IIT Delhi.
 
 
 ## Overview
